@@ -206,8 +206,4 @@ Essa análise pode apoiar decisões relacionadas a:
 
 ---
 
-## 🔎 Possíveis Expansões da Análise
-- Análise de impacto econômico (eco, force buy, full buy)  
-- Segmentação avançada por função e estilo de jogo  
-- Leitura de resiliência psicológica após erros críticos  
-- Anti-strat avançado com análise de adversários  
+
