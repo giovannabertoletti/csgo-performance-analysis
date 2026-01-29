@@ -108,15 +108,15 @@ Esses padrões não definem formalmente o papel de IGL, mas indicam jogadores co
 ---
 
 ## 📈 Dashboard
-O dashboard foi desenvolvido no **Tableau**, com foco em:
+O dashboard foi desenvolvido no **LookerStudio**, com foco em:
 
 - impacto vs consistência dos jogadores  
 - reação inicial e conversão de vantagem  
 - propensão à decisão em momentos críticos  
 - identificação de perfis de jogo e possíveis lideranças  
 
-👉 **Link para o Tableau Public:**  
-*(inserir aqui quando publicar)*
+👉 **Link para o LookerStudio:**  
+cxxxxxxxx
 
 ---
 
