@@ -182,7 +182,7 @@ O dashboard foi desenvolvido no **Tableau**, com foco em:
 - leitura contextual dos resultados  
 - visualização de decisão sob pressão e liderança  
 
-👉 **Link para o Tableau Public:** *(inserir aqui)*
+👉 **Tableau Public:** vo coloca aqui o link
 
 ---
 
