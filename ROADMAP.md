@@ -5,7 +5,7 @@
 - Impacto, consistência e perfil de jogo  
 - Dashboard inicial no Tableau
 
-  ### 🔹 v1.1 — Análise Round-Level (Planejado)
+### 🔹 v1.1 — Análise Round-Level (Planejado)
 - Integração com dados por round  
 - Análise direta de timing, clutch e retake  
 - Modelos avançados de comportamento e decisão  
