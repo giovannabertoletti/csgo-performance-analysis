@@ -116,7 +116,7 @@ O dashboard foi desenvolvido no **LookerStudio**, com foco em:
 - identificação de perfis de jogo e possíveis lideranças  
 
 👉 **Link para o LookerStudio:**  
-cxxxxxxxx
+[cxxxxxxxx](https://lookerstudio.google.com/reporting/0f7ac0be-a7c0-4b76-8690-01347d4ebbe8)
 
 ---
 
