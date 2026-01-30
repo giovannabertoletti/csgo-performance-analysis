@@ -1,0 +1,139 @@
+## 📌 Visão Geral do Dashboard
+
+Este dashboard foi desenvolvido com o objetivo de analisar a performance de jogadores de CS:GO de forma **contextual e multifatorial**, indo além de métricas médias tradicionais.
+
+Ao invés de responder apenas *“quem tem o melhor K/D?”*, o foco está em perguntas como:
+
+- Quem mantém impacto **ao longo do tempo**?
+- Quem inicia rounds com vantagem **de forma consistente**?
+- Quem toma **boas decisões sob pressão**?
+- Quem sustenta performance mesmo fora de picos isolados?
+
+O dashboard foi desenhado para ser **limpo, didático e explicável**, inclusive para pessoas que não acompanham CS:GO no dia a dia.
+
+---
+
+## 📊 Estrutura do Dashboard
+
+O dashboard é dividido em **blocos analíticos**, cada um respondendo a uma pergunta específica de performance.
+
+---
+
+## 🔹 Gráfico 1 — Impacto vs Consistência dos Jogadores
+
+### 📈 O que o gráfico mostra
+Este gráfico relaciona:
+
+- **Eixo X:** Kills per Death (K/D)  
+- **Eixo Y:** Rating  
+
+Cada ponto representa um jogador.
+
+---
+
+### 🧠 Como ler este gráfico
+- **Direita e para cima:** jogadores com impacto alto **e consistente**
+- **Direita e para baixo:** bons números pontuais, mas menor eficiência geral
+- **Esquerda:** jogadores com baixo impacto médio
+
+A dispersão ajuda a identificar **estabilidade**, evitando interpretações baseadas apenas em picos ocasionais.
+
+---
+
+### 💡 Por que isso é importante?
+Dois jogadores podem ter o mesmo K/D médio, mas:
+- um pode oscilar muito
+- outro pode manter impacto constante
+
+Este gráfico ajuda a **diferenciar volume de consistência**, algo essencial em contextos competitivos.
+
+---
+
+## 🔹 Gráfico 2 — Reação Inicial e Conversão de Vantagem
+
+### 📈 O que o gráfico mostra
+Este gráfico analisa quem:
+1. **abre rounds com frequência**
+2. **converte essa vantagem inicial em vitória**
+
+- **Eixo X:** Opening Kill Rating  
+- **Eixo Y:** Win % após First Kill  
+
+---
+
+### 🧠 Como ler este gráfico
+- **Superior direito:** jogadores que iniciam rounds **e ajudam o time a vencer**
+- **Inferior direito:** bons iniciadores, mas com baixa conversão
+- **Esquerda:** baixo impacto na abertura de rounds
+
+---
+
+### 💡 Insight-chave
+Abrir o round não é suficiente.  
+O valor real está em **criar vantagem e sustentá-la**, seja com decisão, posicionamento ou coordenação.
+
+Este gráfico ajuda a separar:
+- agressividade eficiente  
+- agressividade sem impacto real  
+
+---
+
+## 🔹 Gráfico 3 — Desempenho em Situações Críticas (Clutch & Decisão)
+
+### 📈 O que o gráfico mostra
+Este gráfico busca identificar jogadores que mantêm impacto em **situações de alta pressão**, onde leitura de jogo e decisão rápida são essenciais.
+
+- **Eixo X:** Rating  
+- **Eixo Y:** Kills por Round  
+- **Tamanho do ponto:** Volume de mapas jogados (contexto e confiabilidade)
+
+---
+
+### 🧠 O que este gráfico representa
+Este gráfico **não mede clutch de forma direta**.
+
+Ele utiliza **proxies de decisão sob pressão**, combinando:
+- impacto médio
+- consistência por round
+- volume de dados analisados
+
+Jogadores bem posicionados tendem a:
+- errar menos sob pressão
+- tomar decisões mais eficientes
+- manter impacto mesmo em rounds desfavoráveis
+
+---
+
+### ⚠️ Limitações
+Este gráfico **não substitui análise tática ou VOD review**.
+
+Ele deve ser interpretado considerando:
+- função exercida (IGL, lurker, suporte)
+- estilo do time
+- contexto competitivo
+
+---
+
+## 🎯 Por que este dashboard é relevante?
+
+Este dashboard permite:
+- evitar decisões baseadas apenas em médias isoladas
+- identificar jogadores mal aproveitados
+- entender impacto real além da mecânica pura
+- apoiar decisões de função, treino e estratégia
+
+Ele reflete uma leitura de performance **mais próxima da realidade competitiva** do CS:GO.
+
+---
+
+## 🧭 Próximas Evoluções (Roadmap)
+
+- Segmentação por função (IGL, entry, suporte)
+- Análise econômica (eco, force, full buy)
+- Integração com dados de mapas e bombsites
+- Comparação entre jogadores com perfis similares
+
+---
+
+📊 **Dashboard desenvolvido em:** Looker Studio  
+🔗 **Link do dashboard:** *https://lookerstudio.google.com/reporting/0f7ac0be-a7c0-4b76-8690-01347d4ebbe8*  
